@@ -28,3 +28,8 @@ Este proyecto presenta una aplicación de terminal básica que utiliza Tkinter p
 - Este proyecto es una implementación básica y puede ser extendido agregando más funcionalidades, como soporte para comandos adicionales, personalización de la apariencia de la ventana, etc.
 - La aplicación utiliza la biblioteca `random` para simular eventos aleatorios y la biblioteca `subprocess` para ejecutar comandos del sistema.
 - La ventana de Turtle no está presente en esta versión del código. Si se desea integrar Turtle nuevamente, se pueden seguir los principios anteriores y adaptar el código según sea necesario.
+
+
+
+![image](https://github.com/JuanRomero2005/Trabajo-2-ssoo/assets/160537197/4879aa84-c6a5-4139-b2cb-60d2c94dc354)
+
