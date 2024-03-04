@@ -2,6 +2,12 @@ import tkinter as tk
 from tkinter import scrolledtext
 import subprocess
 import random
+import os
+
+# Obtener el PID del propio script
+script_pid = os.getpid()
+
+print(f"El PID del script es: {script_pid}")
 
 class TerminalApp:
     def _init_(self, master):
@@ -132,4 +138,3 @@ def main():
 
 if _name_ == "_main_":
     main()
-
