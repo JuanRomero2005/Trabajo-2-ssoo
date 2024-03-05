@@ -1,4 +1,4 @@
-# TerminalApp con Tkinter y Turtle
+# Terminal Rolls
 
 ## Descripción
 Este proyecto presenta una aplicación de terminal básica que utiliza Tkinter para la interfaz gráfica de usuario (GUI). La aplicación permite a los usuarios ejecutar comandos personalizados, como lanzar dados, voltear una moneda, elegir entre opciones, generar un color aleatorio y ver una tabla de clasificación de resultados.
